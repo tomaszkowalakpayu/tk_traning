@@ -1,1 +1,2 @@
-Select * from  dual
+Select * dupa2
+Select * from  dual/dupa
